@@ -8,14 +8,16 @@ This project focuses on analyzing pizza sales data using SQL to derive insights 
 
 **Objectives**
 
-# ##To explore and analyze sales data related to pizza orders.
-# ##To identify trends and patterns in customer purchasing behavior.
-# ##To generate insights that can inform marketing strategies and inventory management.
+* To explore and analyze sales data related to pizza orders.
+* To identify trends and patterns in customer purchasing behavior.
+* To generate insights that can inform marketing strategies and inventory management.
+
 
 **Analysis Summary**
 
-# Performed various SQL queries to extract meaningful insights, such as:
-# Total sales revenue over time
-# Most popular pizza types
-# Customer demographics and their purchasing habits
-# Seasonal trends in pizza sales
+Performed various SQL queries to extract meaningful insights, such as:
+1) Total sales revenue over time
+2) Most popular pizza types
+3) Customer demographics and their purchasing habits
+4) Seasonal trends in pizza sales
+
